@@ -25,12 +25,12 @@ python car_price_prediction.py
 The project uses a Linear Regression model, and the performance is evaluated using the R-squared metric.
 
 ## Data Preprocessing
-Conversion of categorical variables to numerical values.
-Splitting the dataset into training and testing sets.
-Results
-Training Set R-squared: 0.87
-Testing Set R-squared: 0.83
-Visualization
+- Conversion of categorical variables to numerical values.
+- Splitting the dataset into training and testing sets.
+# Results
+- Training Set R-squared: 0.87
+- Testing Set R-squared: 0.83
+# Visualization
 Scatter plots comparing actual prices with predicted prices for both training and testing sets.
 ## Contributors
 Abhinav
