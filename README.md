@@ -11,20 +11,20 @@ README.md: This file providing an overview of the project and instructions.
 Python 3.x
 Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 Usage
-Clone the repository:
+ ## Clone the repository:
 
 git clone https://github.com/your-username/car-price-prediction.git
-Install the required libraries:
+## Install the required libraries:
 
 
 pip install numpy pandas matplotlib seaborn scikit-learn
 Run the car_price_prediction.py script:
 
 python car_price_prediction.py
-Model Evaluation
+## Model Evaluation
 The project uses a Linear Regression model, and the performance is evaluated using the R-squared metric.
 
-Data Preprocessing
+## Data Preprocessing
 Conversion of categorical variables to numerical values.
 Splitting the dataset into training and testing sets.
 Results
