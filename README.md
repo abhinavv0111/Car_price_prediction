@@ -31,7 +31,7 @@ The project uses a Linear Regression model, and the performance is evaluated usi
 - Training Set R-squared: 0.87
 - Testing Set R-squared: 0.83
 # Visualization
-Scatter plots comparing actual prices with predicted prices for both training and testing sets.
+- Scatter plots comparing actual prices with predicted prices for both training and testing sets.
 ## Contributors
 Abhinav
 Feel free to contribute to the project by forking it and submitting pull requests.
